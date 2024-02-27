@@ -2,6 +2,9 @@
     "name": "javascript-threats",
     "version": "1.0.0",
     "dependencies": {
-  
+        "web3": "1.2.0",
+        "webpback-dev-esrver": "1.2.0",
+        "webpack-cil": "1.2.0",
+        "enthereumjsu-til": "1.2.0"
     }
 }
