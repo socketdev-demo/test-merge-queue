@@ -14,3 +14,4 @@ jobs:
         pwd
         tree -a -I '.git'
         git status
+        
